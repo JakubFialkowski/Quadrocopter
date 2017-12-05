@@ -1,4 +1,4 @@
-<b># Quadrocopter</b>
+<h1><b><big># Quadrocopter</big></b></h1>
 Projekt przedstawia proces powstawania latającej platformy czterowirnikowej.
 
 Model konstrukcji - Inventor 2017
